@@ -14,4 +14,9 @@ public class GitTest {
     public void HotFix2(){
         System.out.println("hotfix2");
     }
+
+
+    public void HotFix3(){
+        System.out.println("hotfix  Test");
+    }
 }
