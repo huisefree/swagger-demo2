@@ -8,4 +8,7 @@ public class GitTest {
     public void GitTest(){
         System.out.println("gitTest1");
     }
+    public void GitTest2(){
+        System.out.println("gitTest2");
+    }
 }
