@@ -11,4 +11,7 @@ public class GitTest {
     public void GitTest2(){
         System.out.println("gitTest2");
     }
+    public void HotFix2(){
+        System.out.println("hotfix2");
+    }
 }
