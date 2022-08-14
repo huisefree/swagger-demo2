@@ -19,7 +19,10 @@ public class GitTest {
     }
 
 
-    public void HotFix3(){
+    public void HotFix3(){  
         System.out.println("hotfix  Test");
+    }
+    public void HotFix4(){
+        System.out.println("ssh link  Test");
     }
 }
