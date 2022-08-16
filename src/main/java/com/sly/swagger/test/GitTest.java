@@ -25,4 +25,8 @@ public class GitTest {
     public void HotFix4(){
         System.out.println("ssh link  Test");
     }
+
+    public void HotFix4(){
+        System.out.println("远程数据库修改，然后pull拉取");
+    }
 }
